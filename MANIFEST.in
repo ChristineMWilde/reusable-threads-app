@@ -1,0 +1,7 @@
+include LICENSE
+include README.rst
+recursive-exclude reusable *.pyc
+recursive-include reusable_threads *.css
+recursive-include reusable_threads *.js
+recursive-include reusable_threads *.html
+recursive-include reusable_threads *.py
