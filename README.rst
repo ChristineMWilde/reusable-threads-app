@@ -2,7 +2,7 @@
 Threads
 =====
  
-Threads is a reusable forum app for Django with the Motorholic project formatting
+Threads is a reusable forum app for Django with the Motorholic project formatting.
  
 Detailed documentation is in the "ProjectDocumentation" directory.
  
